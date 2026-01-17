@@ -1,1 +1,8 @@
-log
+2026-01-15 22:28:55.147896 | IP: 192.168.1.10 | Blocked (SQL Injection) | ' OR 1=1 --
+2026-01-15 22:34:11.684222 | IP: 192.168.1.10 | Allowed | hello world 
+2026-01-15 22:37:37.530219 | IP: 192.168.1.10 | Allowed | hello world
+2026-01-15 22:37:37.532253 | IP: 192.168.1.10 | Allowed | hello world
+2026-01-17 18:03:13.987415 | IP: hello world | Blocked (SQL Injection) | ' OR 1=1 --
+2026-01-17 18:03:13.988294 | IP: hello world | Blocked (SQL Injection) | ' OR 1=1 --
+2026-01-17 18:13:20.907785 | IP: 192.168.1.10 | Allowed | hello world
+2026-01-17 18:13:20.910048 | IP: 192.168.1.10 | Allowed | hello world
